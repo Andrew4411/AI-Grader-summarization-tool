@@ -4,6 +4,6 @@ The tool is from <a href="https://github.com/callstack/ai-summarization">ai-summ
 # Installation
 Install Python3, Desktop development with C++ in Visual Studio Installer.<br>
 Install dependencies with <code>pip install -r requirements.txt</code>.<br>
-Put the model file under ./models .
-# Test Webpage
-//link to test
+Put the model file under <code>./models</code>.
+# Test Model
+The model used is <code>mistral-7b-openorca.Q5_K_M.gguf</code> downloaded from Hugging Face <a href="https://huggingface.co/TheBloke/Mistral-7B-OpenOrca-GGUF/tree/main" rel="nofollow">TheBloke/Mistral-7B-OpenOrca-GGUF</a> repository.
