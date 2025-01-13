@@ -3,6 +3,7 @@ This page is a part of the AI Grader project about the summarization tool that i
 The tool is from <a href="https://github.com/callstack/ai-summarization">ai-summarization</a> repositry, developed by <a href="https://github.com/mdjastrzebski">mdjastrzebski</a>.<br>
 # Installation
 Install Python3, Desktop development with C++ in Visual Studio Installer.<br>
-Install dependencies with <code>pip install -r requirements.txt</code>.
+Install dependencies with <code>pip install -r requirements.txt</code>.<br>
+Put the model file under ./models .
 # Test Webpage
 //link to test
