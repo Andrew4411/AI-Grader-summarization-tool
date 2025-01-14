@@ -1,0 +1,8 @@
+> Finished chain.
+Content length: 190 chars, 49 tokens.
+Summary:
+In this story, Little Red-Cap is tricked by a wolf who pretends to be her grandmother, but she eventually escapes with the help of a huntsman, and learns to stay on the path to avoid danger.
+
+
+CPU times: total: 28min 58s
+Wall time: 7min 17s

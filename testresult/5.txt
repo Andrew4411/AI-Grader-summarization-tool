@@ -1,0 +1,16 @@
+
+> Finished chain.
+Content length: 859 chars, 227 tokens.
+Summary:
+
+1. A poor wood-cutter with his wife and two children, Hansel and Gretel, live near a great forest.
+2. Due to a severe famine, the father plans to abandon his children in the forest to save himself and his wife from starvation.
+3. Hansel secretly gathers pebbles as a guide for their way back home, while Gretel collects breadcrumbs.
+4. The father takes Hansel and Gretel deep into the forest, but they manage to find their way back home using the pebbles and crumbs.
+5. The famine continues, and the father is forced to take his children deeper into the forest, where they encounter a wicked witch who plans to eat them.
+6. Hansel and Gretel escape from the witch by outsmarting her, and find their way back home using the pebbles and crumbs.
+7. The father's wife dies, and the family lives happily ever after with the riches they found in the witch's house.
+
+
+CPU times: total: 1h 8min 57s
+Wall time: 17min 30s
