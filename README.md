@@ -19,7 +19,7 @@ Execute <code>start.bat</code> or <code>start.sh</code>.
 The models used are downloaded from Hugging Face repository.
 <br>
 <table>
-  <tr><th>Input</th><th>Model</th></tr>
+  <tr><th>t</th><th>Model</th></tr>
   <tr><td>1</td><td><a href="https://huggingface.co/TheBloke/Mistral-7B-OpenOrca-GGUF/tree/main" rel="nofollow">TheBloke/Mistral-7B-OpenOrca-GGUF</a> mistral-7b-openorca.Q5_K_M.gguf</td></tr>
   <tr><td>2</td><td><a href="https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF/tree/main" rel="nofollow">TheBloke/OpenHermes-2.5-Mistral-7B-GGUF</a> openhermes-2.5-mistral-7b.Q5_K_M</td></tr>
   <tr><td>2</td><td><a href="https://huggingface.co/TheBloke/CapybaraHermes-2.5-Mistral-7B-GGUF/tree/main" rel="nofollow">TheBloke/CapybaraHermes-2.5-Mistral-7B-GGUF</a> capybarahermes-2.5-mistral-7b.Q5_K_M.gguf</td></tr>
