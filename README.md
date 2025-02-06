@@ -21,4 +21,5 @@ The models used are downloaded from Hugging Face repository.
 <table>
   <tr><th>Input</th><th>Model</th></tr>
   <tr><td>1</td><td><a href="https://huggingface.co/TheBloke/Mistral-7B-OpenOrca-GGUF/tree/main" rel="nofollow">TheBloke/Mistral-7B-OpenOrca-GGUF</a> mistral-7b-openorca.Q5_K_M.gguf</td></tr>
+  <tr><td>2</td><td><a href="https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/tree/main" rel="nofollow">TheBloke/Mistral-7B-Instruct-v0.1-GGUF</a> mistral-7b-instruct-v0.1.Q5_K_S</td></tr>
 </table>
