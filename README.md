@@ -16,9 +16,9 @@ Execute all the cells in <code>main.ipynb</code> in Jupyter Lab or Notebook.<br>
 Execute <code>start.bat</code> or <code>start.sh</code>.
 
 # Testing
-The models used are downloaded from Hugging Face <a href="https://huggingface.co/TheBloke/Mistral-7B-OpenOrca-GGUF/tree/main" rel="nofollow">TheBloke/Mistral-7B-OpenOrca-GGUF</a> repository.
+The models used are downloaded from Hugging Face repository.
 <br>
 <table>
-  <tr><th>Input</th><th>Model</th><th>Style</th><th>Context</th><th>Time Used</th></tr>
-  <tr><td>1</td><td>mistral-7b-openorca.Q5_K_M.gguf</td><td>number list</td><td>Grimm's Fairy Tales</td><td>7min 40s</td></tr>
+  <tr><th>Input</th><th>Model</th></tr>
+  <tr><td>1</td><td><a href="https://huggingface.co/TheBloke/Mistral-7B-OpenOrca-GGUF/tree/main" rel="nofollow">TheBloke/Mistral-7B-OpenOrca-GGUF</a> mistral-7b-openorca.Q5_K_M.gguf</td></tr>
 </table>
