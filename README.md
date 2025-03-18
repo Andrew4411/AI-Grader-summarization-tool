@@ -7,7 +7,7 @@ Install Python3, Desktop development with C++ in Visual Studio Installer.<br>
 Install dependencies with <code>pip install -r requirements.txt</code>.<br>
 Put the model file under <code>./models</code>.<br>
 Use alternative model by changing <code>MODEL_FILE</code> in summarizel.ipynb.<br>
-Modify path to course directory in <code>courses_directory</code> of <code>teacher.ipynb</code> and <code>student.ipynb</code><br>.
+Modify path to course directory in <code>courses_directory</code> of <code>teacher.ipynb</code> and <code>student.ipynb</code>.<br>
 Or enter the path and use the update button in the Web UI.
 
 # Use Guide
