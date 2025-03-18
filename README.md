@@ -11,7 +11,7 @@ Modify path to course directory in <code>courses_directory</code> of <code>main.
 
 # Use Guide
 <h3>Jupyter Notebook</h3>
-Execute all the cells in <code>main.ipynb</code> in Jupyter Lab or Notebook.<br>
+Execute all the cells in <code>menu.ipynb</code> in Jupyter Lab or Notebook.<br>
 <h3>Web UI</h3>
 Execute <code>start.bat</code> or <code>start.sh</code>.
 
