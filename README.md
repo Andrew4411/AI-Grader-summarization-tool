@@ -12,9 +12,9 @@ Or enter the path and use the update button in the Web UI.
 
 # Use Guide
 <h3>Jupyter Notebook</h3>
-Execute all the cells in <code>menu.ipynb</code> in Jupyter Lab or Notebook.<br>
+Place the corresponding notebook file according to the user role (Studnet/ Teacher). Execute all the cells in <code>student.ipynb</code> or <code>student.ipynb</code> in Jupyter Lab or Notebook.<br>
 <h3>Web UI</h3>
-Execute <code>start.bat</code> or <code>start.sh</code>.
+Run <code>voila student.ipynb</code> or <code>voila teacher.ipynb</code>.
 
 # Testing
 The models used are downloaded from Hugging Face repository.
